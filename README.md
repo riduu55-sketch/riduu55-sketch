@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**riduu55-sketch/riduu55-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm a Digital Marketing Learner 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Learning Digital Marketing and SEO
+- 📢 Exploring Google Ads and Meta Ads
+- 🎬 Interested in AI Video Editing
+- 💡 Building practical projects and improving my skills
+
+## Skills I'm Learning
+- Search Engine Optimization (SEO)
+- Google Ads
+- Meta Ads
+- Content Creation
+- AI Video Editing
+
+## My Projects
+- Portfolio Website
+- SEO Practice Projects
+- Digital Marketing Campaign Samples
+- AI Video Editing Samples
+
+## Connect With Me
+- LinkedIn:https://www.linkedin.com/in/rida-amin-ba0298382/
